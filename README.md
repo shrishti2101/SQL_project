@@ -46,7 +46,7 @@ Q14 Which order had the highest value?
 Q15 Are there any duplicate payments (same customer, amount, and date)?
 <img width="1248" height="501" alt="15" src="https://github.com/user-attachments/assets/43cb3ef9-c9fd-4610-8366-d6ce184c632c" />
 
-q16 Which customers are at risk (placed orders but never paid)?
+Q16 Which customers are at risk (placed orders but never paid)?
 <img width="1377" height="418" alt="image" src="https://github.com/user-attachments/assets/85d635fe-0a4b-487b-a344-c07b2716a37d" />
 
 
